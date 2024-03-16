@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Navindu </h1>
+<h1 align="center">Hello!!
+  I'm Navindu </h1>
 <div align="center">
-  <img height="150" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"  />
+  <img height="350" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"  />
 </div>
 <hr>
 <h3 align="center">Let’s all pretend that this is a really clever bio.</h3>
@@ -8,7 +9,7 @@
 <img src="https://i.pinimg.com/originals/93/4b/e2/934be2865cf79d85cac19f8beb67bf27.gif" /> 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/pcSenavirathna/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/NavinduThambara/count.svg?"  />
 </div>
 
 <hr>
@@ -40,11 +41,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lessonspyt12437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lessonspyt12437" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prasad chandima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasad chandima" height="30" width="40" /></a>
-<a href="https://fb.com/prasad chandima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prasad chandima" height="30" width="40" /></a>
-<a href="https://instagram.com/prasad_chandima_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prasad_chandima_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/prasadsen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="prasadsen" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lessonspyt12437" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasad chandima" height="30" width="40" /></a>
+<a href="https://" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prasad chandima" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prasad_chandima_" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="prasadsen" height="30" width="40" /></a>
 
  <img align="right" height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/be510767817393.5b472244e895f.gif"  />
 
