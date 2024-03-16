@@ -1,8 +1,9 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=35&color=4AAA6AFF&vCenter=true&center=true&width=500&height=70&duration=4000&width=600&lines=Hi+There!;I'm+NAvindu" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=35&color=4AAA6AFF&vCenter=true&center=true&width=500&height=70&duration=4000&width=600&lines=Hi+There!;I'm+Navindu+Thambara" alt="Typing SVG" /></a>
 </h1>
-  <img height="350" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"  />
-</div>
+ <div align="center">
+  <img height="350" align="center" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"  />
+ </div>
 <hr>
 <h3 align="center">Let’s all pretend that this is a really clever bio.</h3>
 
