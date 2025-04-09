@@ -15,13 +15,26 @@
 
 <hr>
 
-- 👀 I’m interested in UX/UI & Mobile app Development
+### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **MERN stack web development and Kotlin**
+- 👀 I’m interested in **UX/UI Design** & **Mobile App Development**
+- 🌱 I’m currently learning **MERN Stack Web Development** and **Kotlin**
+- 🎓 I'm studying **Interactive Media at SLIIT**
+- 💬 Ask me about **anything tech-related**
+- 📫 Reach me at: **thambaranavindu@gmail.com**
 
-- 💬 Ask me about **Any Questions**
+---
 
-- 📫 How to reach me **thambaranavindu@gmail.com**
+### 💼 My Skills & Passions
+
+- 🔧 **Full-Stack Development**  
+- 🧠 **3D Modeling** (Blender, Maya)  
+- 🎮 **Game Development**  
+- 🕶️ **AR/VR** (Unity)  
+- 🎨 **Graphic Design**  
+- 📸 **Photography** — especially **wildlife** & **aquascapes**
+
+---
 
 </table>
 <h3 align="center">My Statistics:</h3>
