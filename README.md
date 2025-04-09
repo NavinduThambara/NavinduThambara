@@ -22,6 +22,7 @@
 - 🎓 I'm studying **Interactive Media at SLIIT**
 - 💬 Ask me about **anything tech-related**
 - 📫 Reach me at: **thambaranavindu@gmail.com**
+  
 
 ---
 
@@ -33,7 +34,7 @@
 - 🕶️ **AR/VR** (Unity)  
 - 🎨 **Graphic Design**  
 - 📸 **Photography** — especially **wildlife** & **aquascapes**
-
+- Check My Projects **https://www.behance.net/NavinduVilochana**
 ---
 
 </table>
